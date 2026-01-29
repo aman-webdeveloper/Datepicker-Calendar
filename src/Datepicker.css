@@ -73,7 +73,7 @@ h1,strong{
     padding: 10px;
 }
 .dates span:hover{
-    background-color:#d14949;
+    /* background-color:#d14949; */
     cursor: pointer;
 }
 

@@ -183,6 +183,7 @@ const handleManualInput = (e) => {
                     `${day}/${currentDate.getMonth() + 1}/${currentYear}`
                   );
                   setActiveDay(day);
+                  setIsOpen(false);
                 }}
               >
                 {day}
