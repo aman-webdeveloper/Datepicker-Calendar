@@ -69,7 +69,6 @@ h1,strong{
     left: 0;
     width: 100%;
     border: 1px solid #eee;
-    /* background: rgb(75, 75, 75); */
     padding: 10px;
 }
 .dates span:not(.empty):hover {
@@ -77,7 +76,6 @@ h1,strong{
   color: #fff;
   cursor: pointer;
 }
-
 
 .dates span.active{
     background-color: #2563eb;
